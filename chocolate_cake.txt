@@ -1,0 +1,15 @@
+Chocolate Cake Recipe
+
+Ingredients:
+- 2 cups flour
+- 1 cup sugar
+- 1/2 cup cocoa powder
+- 1/2 cup butter
+- 2 eggs
+- 1 tsp baking powder
+
+Instructions:
+1. Mix butter, sugar, and cocoa.
+2. Add eggs and beat.
+3. Add flour and baking powder.
+4. Bake at 180°C for 35 minutes.
