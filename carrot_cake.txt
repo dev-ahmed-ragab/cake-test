@@ -1,0 +1,17 @@
+Carrot Cake Recipe
+
+   Ingredients:
+   - 2 cups flour
+   - 1 cup sugar
+   - 1/2 cup vegetable oil
+   - 2 eggs
+   - 1 tsp baking powder
+   - 1 cup grated carrots
+   - 1 tsp cinnamon
+
+   Instructions:
+   1. Mix oil and sugar.
+   2. Add eggs and beat well.
+   3. Add flour, baking powder, and cinnamon.
+   4. Fold in grated carrots.
+   5. Bake at 180°C for 40 minutes.
