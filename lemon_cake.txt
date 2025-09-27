@@ -1,0 +1,16 @@
+Lemon Cake Recipe
+
+   Ingredients:
+   - 2 cups flour
+   - 1 cup sugar
+   - 1/2 cup butter
+   - 2 eggs
+   - 1 tsp baking powder
+   - 1/4 cup lemon juice
+   - Zest of 1 lemon
+
+   Instructions:
+   1. Mix butter and sugar until creamy.
+   2. Add eggs, lemon juice, and lemon zest, then beat well.
+   3. Add flour and baking powder, mix gently.
+   4. Bake at 180°C for 35 minutes.
