@@ -1,0 +1,14 @@
+Basic Cake Recipe
+
+Ingredients:
+- 2 cups flour
+- 1 cup sugar
+- 1/2 cup butter
+- 2 eggs
+- 1 tsp baking powder
+
+Instructions:
+1. Mix butter and sugar.
+2. Add eggs and beat well.
+3. Add flour and baking powder.
+4. Bake at 180°C for 30 minutes.
